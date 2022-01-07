@@ -1,0 +1,7 @@
+- 🍃 Hello world!
+- 🍏 My name is Alex Wyman.
+- 🌵 I earned my Bachelor's Degree from Stony Brook University in Applied Mathematics and Statistics (AMS) and Economics.
+- 🌱 Lately I have been working with Python, and I have experience with Excel, R, Matlab, and Java. 
+- 🌿 I am looking for a position in Data Analysis and with the goal of a career in Software Development.
+- 🍀 The best way to reach me is via email at httpawy@gmail.com.
+- 💚 Enjoy my page!
